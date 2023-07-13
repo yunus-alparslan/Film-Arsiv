@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Film Arşiv", "Film Arşiv\Film Arşiv.csproj", "{AFD9B915-38F8-4308-85A4-8CEF9A3EB7BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFD9B915-38F8-4308-85A4-8CEF9A3EB7BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFD9B915-38F8-4308-85A4-8CEF9A3EB7BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFD9B915-38F8-4308-85A4-8CEF9A3EB7BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFD9B915-38F8-4308-85A4-8CEF9A3EB7BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {79489835-B040-4D83-B4A7-7C63BF9ECACA}
+	EndGlobalSection
+EndGlobal

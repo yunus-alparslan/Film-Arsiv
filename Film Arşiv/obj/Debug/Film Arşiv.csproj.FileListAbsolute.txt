@@ -1,0 +1,11 @@
+C:\Users\PC\Desktop\C# Projelerim\Film Arşiv\Film Arşiv\bin\Debug\Film Arşiv.exe.config
+C:\Users\PC\Desktop\C# Projelerim\Film Arşiv\Film Arşiv\bin\Debug\Film Arşiv.exe
+C:\Users\PC\Desktop\C# Projelerim\Film Arşiv\Film Arşiv\bin\Debug\Film Arşiv.pdb
+C:\Users\PC\Desktop\C# Projelerim\Film Arşiv\Film Arşiv\obj\Debug\Film Arşiv.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\C# Projelerim\Film Arşiv\Film Arşiv\obj\Debug\Film Arşiv.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\Desktop\C# Projelerim\Film Arşiv\Film Arşiv\obj\Debug\Film_Arşiv.Form1.resources
+C:\Users\PC\Desktop\C# Projelerim\Film Arşiv\Film Arşiv\obj\Debug\Film_Arşiv.Properties.Resources.resources
+C:\Users\PC\Desktop\C# Projelerim\Film Arşiv\Film Arşiv\obj\Debug\Film Arşiv.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\C# Projelerim\Film Arşiv\Film Arşiv\obj\Debug\Film Arşiv.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\C# Projelerim\Film Arşiv\Film Arşiv\obj\Debug\Film Arşiv.exe
+C:\Users\PC\Desktop\C# Projelerim\Film Arşiv\Film Arşiv\obj\Debug\Film Arşiv.pdb
